@@ -1,1 +1,1 @@
-git branch -c cis129_lab02_shortStory.py
+print('The story was artificially made without any real character. Tools that function to the best of their abilities without an ego or desire. They will accomplish their goals without ever deviating. That is the purpose and function of a tool.  ')
